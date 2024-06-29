@@ -1,0 +1,25 @@
+#style {
+    background-color: rgb(255, 255, 219);
+    padding: 30px;
+    width: 30%;border-radius: 40px;
+    color: rgb(85, 55, 0);
+    font-family: Gaegu;
+}
+
+button {
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 134);
+    border-width: 1px;
+    border-color: rgb(85, 55, 0);
+    font-family: Gaegu;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
